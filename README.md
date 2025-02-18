@@ -67,7 +67,7 @@ RAG (Retrieval-Augmented Generation) enhances AI responses by integrating releva
 To install the AI Tutor RAG API package in a Node.js environment, run:
 
 ```bash
-npm install ai-tutor-rag-api
+pnpm install 
 ```
 
 ### Python
